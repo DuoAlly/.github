@@ -30,7 +30,7 @@ If anything we're working on is interesting to you, reach out to us.
   <a href="https://duoally.github.io/careers.html">
     <img src="https://img.shields.io/badge/Careers-4CAF50?style=for-the-badge&logo=personio&logoColor=white" alt="Careers">
   </a>
-  <a href="mailto:#">
+  <a href="https://duoally.github.io/contact.html">
     <img src="https://img.shields.io/badge/Contact-673AB7?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact">
   </a>
 </p>
